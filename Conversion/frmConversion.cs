@@ -16,5 +16,10 @@ namespace Conversion
         {
             InitializeComponent();
         }
+
+        private void btnAffiche_Click(object sender, EventArgs e)
+        {
+            //Commmentaire
+        }
     }
 }
